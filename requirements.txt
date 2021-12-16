@@ -55,7 +55,7 @@ wget
 wikipedia
 pymongo 
 dnspython
-# youtube-dl
+youtube-dl
 soundcloud-lib
 heroku3
 pyquery
@@ -68,3 +68,4 @@ appdirs #aria
 cchardet #aiohttp
 aiodns #aiphttp
 pygofile
+aria2p
