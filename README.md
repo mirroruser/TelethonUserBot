@@ -8,12 +8,12 @@ This userbot working on properly Railway.app !
 
 |Deploy To Heroku|  Gitpod Online|
 |--|--|
-| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammedfurkan/TelethonUserBot) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mmuhammedfurkan/TelethonUserBot) |
+| [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mirroruser/TelethonUserBot) | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mirroruser/TelethonUserBot) |
 
 ### DeepSource
 
 
-[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot/?ref=repository-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot/?ref=repository-badge)
+[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/mirroruser/TelethonUserBot/?ref=repository-badge)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![DeepSource](https://deepsource.io/gh/muhammedfurkan/TelethonUserBot.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/mirroruser/TelethonUserBot/?ref=repository-badge)
 
 
 ### Setting Up Locally 👇🏻
